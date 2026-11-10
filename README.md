@@ -17,10 +17,10 @@ A command-line calculator written in Python. The application runs in a continuou
  ```
 
 3. Navigate to the project folder:
-   ```
-   cd calculator
-   ```
+ ```
+ cd calculator
+ ```
 4. Run the script:
-   ```
-   python script.py
-   ```
+ ```
+ python script.py
+ ```
