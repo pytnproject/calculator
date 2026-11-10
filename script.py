@@ -18,11 +18,9 @@ while True:
     elif oper == "+":
         result = num1 + num2
     else:
-        print("Неверный операто\n")
+        print("Неверный оператор\n")
         continue
     print(f"{num1} {oper} {num2} = {result}\n")
-    if input("Продолжаем? (да/нет): ") == "да":
-        continue
-    else:
+    if input("Продолжаем? (да/нет): ").lower().strip() != "да":
         break
         
