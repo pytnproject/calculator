@@ -12,9 +12,9 @@ A command-line calculator written in Python. The application runs in a continuou
 
 1. Ensure you have Python 3.x installed.
 2. Clone the repository or download the script:
-   ```bash
-   git clone https://github.com/pytnproject/calculator.git
-```
+ ```
+ git clone https://github.com/pytnproject/calculator.git
+ ```
 
 3. Navigate to the project folder:
    ```
